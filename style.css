@@ -1,0 +1,32 @@
+header h1 {
+    color:yellow;
+}
+
+header img {
+    border-radius: 30px;
+}
+
+main img {
+    border-radius: 15px;
+}
+
+footer img{
+    border-radius: 15px;
+}
+
+footer {
+    border: orange;
+}
+
+h1 {
+    margin: 20p
+}
+
+
+footer h1 {
+	background: linear-gradient(yellow 0%, yellow 25%, orange 50%, orange 75%, red 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+	
+  
+}
